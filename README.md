@@ -10,11 +10,11 @@ Each mobile phone in the dataset is labeled with one of four price ranges (0 to 
 ## Usage
 To run the notebook locally, ensure you have the following dependencies installed:
 
-- 'pandas'
-- 'numpy'
-- 'scikit-learn'
-- 'matplotlib'
-- 'seaborn'
+- `pandas`
+- `numpy`
+- `scikit-learn`
+- `matplotlib`
+- `seaborn`
 
 ## Evaluation
 The model is evaluated using various metrics, including:
