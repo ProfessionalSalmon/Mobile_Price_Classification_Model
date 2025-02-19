@@ -19,4 +19,6 @@ The model is evaluated using accuracy score.
 
 ## Feature Selection
 Feature Selection is based on lasso regression and is proven authenticity after building ramdom forest model using feature importance feature of ramdom forest.
+![picture](/lasso-feature-selection.png)
+![picture](/feature-importance-forest.png)
 
