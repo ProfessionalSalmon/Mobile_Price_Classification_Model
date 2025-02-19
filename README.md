@@ -17,12 +17,4 @@ To run the notebook locally, ensure you have the following dependencies installe
 - `seaborn`
 
 ## Evaluation
-The model is evaluated using various metrics, including:
-
-Accuracy: The percentage of correct classifications.
-
-Confusion Matrix: Breakdown of true vs. false predictions across price categories.
-
-Precision & Recall: Measures of the model’s ability to correctly identify price categories.
-
-Initial results show promising accuracy, and additional fine-tuning may lead to even better performance.
+The model is evaluated using accuracy score.
